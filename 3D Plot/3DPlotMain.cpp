@@ -1,5 +1,3 @@
-// Урок 44
-// Рисование трехмерных графиков
 #include <GL/glut.h>
 #include <cmath>
 
